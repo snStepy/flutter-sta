@@ -58,7 +58,7 @@ import 'model/post.dart';
 
 //demo 4
 
-void main() => runApp(App());
+void main() => runApp(new App());
 
 class App extends StatelessWidget {
   // 指的是方法覆盖的 父类里面的 build这个方法（具体需要查下）
